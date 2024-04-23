@@ -1,0 +1,16 @@
+export const wordsList = {
+  carro: ["Motor", "Porta", "Capô", "Pneu", "Antena"],
+  fruta: ["Banana", "Maçã", "Pêra", "Mamão", "Laranja"],
+  corpo: ["Braço", "Perna", "Cérebro", "Pescoço", "Olhos"],
+  computador: ["Mouse", "Teclado", "Monitor", "Gabinete"],
+  programação: ["Linguagem", "Framework", "JavaScript", "React"],
+  alimento: ["Arroz", "Feijão", "Carne", "Leite", "Ovo"],
+  instrumento: ["Violão", "Piano", "Guitarra", "Bateria", "Saxofone"],
+  animal: ["Cachorro", "Gato", "Pássaro", "Elefante", "Tigre"],
+  país: ["Brasil", "Estados Unidos", "Japão", "França", "Índia"],
+  bebida: ["Água", "Café", "Refrigerante", "Suco", "Chá"],
+  móvel: ["Sofá", "Cama", "Mesa", "Cadeira", "Armário"],
+  esporte: ["Futebol", "Basquete", "Tênis", "Natação", "Vôlei"],
+  cor: ["Azul", "Vermelho", "Verde", "Amarelo", "Roxo"],
+  profissão: ["Médico", "Professor", "Engenheiro", "Advogado", "Artista"],
+};
